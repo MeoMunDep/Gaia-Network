@@ -21,7 +21,7 @@ curl -sSfL 'https://github.com/GaiaNet-AI/gaianet-node/releases/latest/download/
 
 After installation, run the command displayed in the terminal to set up the environment path. This command will start with `source`.
 
-![Description](quick-start-96fed073147105b82f4885934602852b.png)
+![Gaia Network](Run Gaia Network CLI node guides/Gaia Network.png)
 
 
 ---
